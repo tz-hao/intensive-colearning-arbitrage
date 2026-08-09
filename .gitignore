@@ -1,0 +1,6 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# 打卡自动化调试脚本（含 Access Key，勿提交；正式脚本在 ~/.hermes/scripts/icl_checkin.py）
+daily/_*.py
