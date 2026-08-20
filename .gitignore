@@ -2,5 +2,8 @@
 __pycache__/
 *.pyc
 
+# 调试/探测脚本（探索记录，不入库）
+experiments/_*.py
+
 # 打卡自动化调试脚本（含 Access Key，勿提交；正式脚本在 ~/.hermes/scripts/icl_checkin.py）
 daily/_*.py
