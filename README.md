@@ -28,8 +28,14 @@ references/    → 重要资料、论文、白皮书链接
 | 08-14 | 模块 4 | 回测/模拟框架（backtest.py） | ⏳ 未完成（无产出） |
 | 08-15 | 模块 4 | 策略定稿（main-strategy.md） | ⏳ 未完成（无产出） |
 | 08-16 | 模块 5 | 执行链路搭建（executor.py：quote→approve→签名→广播→/status 五步闭环，DONE 实测） | ✅ |
+| 08-17 | 模块 5 | 安全执行（security.md：权限最小化、session key、白名单、四不原则） | ✅ |
+| 08-18 | 模块 5 | Paper Trading 首日（paper-trading-log.md：5 个信号 5/5 IGNORE，无 ACTION） | ✅ |
+| 08-19 | 模块 5 | 监控与告警（chain_watch.py + signal_scanner.py cron 化） | ✅ |
+| 08-22 | 模块 5 | 参数调优记录 + backtest_v2.py 参数扫描 | ✅ |
+| 08-23 | 模块 5 | 风险审查（risk-review.md：失败场景演练 + 四不原则） | ✅ |
 | 08-24 | 模块 5 | 最终策略文档（final.md：假设/规则/成本/执行/风控/回测边界，观察期不上实盘） | ✅ |
-| ... | ... | ... | ... |
+| 08-25 | 模块 5 | 21 天复盘报告（daily/2026-08-25.md：成本是过滤器、三假设收束、四不原则） | ✅ |
+| 08-26 | 收官 | 仓库整理 + 最终 push（本仓库 35 个追踪文件、17 篇日更笔记） | ✅ 🎉 |
 
 ## 周报
 
